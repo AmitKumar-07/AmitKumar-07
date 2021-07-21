@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Amit Kumar</h1>
 <h3 align="center">a passionate self-taught full stack web developer</h3>
 
-- I'm currently pursuing my Btech degree in computer science and engineering from Motilal Nehru National Institute Of Technology Prayagraj U.P.
+-🔭 I’m currently pursuing my B.tech from MNNIT ALLAHABAD in computer science stream.
 
 - 👀 I’m interested in **web developement**
 
